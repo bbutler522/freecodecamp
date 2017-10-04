@@ -5,4 +5,4 @@ To view my FCC profile with total progress and solutions, visit the link below:
 
 https://www.freecodecamp.org/bbutler522
 
-Many of these are just my first attempt at the problems, so there will generally be room for improvement in either best-practices or speed, and I may not revist many of them.
+Many of these are just my first attempt at the problems, so there will generally be room for improvement in either best-practices or speed, and I may not revist many of them. There are also cases where I used vanilla JS where jQuery or other methods may be more effective.
